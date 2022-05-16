@@ -4,3 +4,7 @@ I'm Seifu D. from Ethiopia, and I am a dedicated senior faculty member teaching 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwanoszet07&show_icons=true&theme=radical)
+
+### Research Publication
+
+https://ieeexplore.ieee.org/document/9672216
