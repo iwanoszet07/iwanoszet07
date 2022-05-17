@@ -3,6 +3,8 @@
 ![I'm Seifu D. from Ethiopia](https://github.com/iwanoszet07/iwanoszet07/blob/main/image_2022-05-17_024632206.png)
 
 I am a dedicated senior faculty member who teaches students from different social and cultural backgrounds at Wolkite University. I am well-versed in numerous programming languages, and in addition to doing research, I enjoy learning languages and frameworks, such as React.
+-🌱 I’m currently learning ALX Software Engineering programme. 
+
 
 ## Skills: 
 * HTML5/JavaScript/CSS/
@@ -10,8 +12,6 @@ I am a dedicated senior faculty member who teaches students from different socia
 * OOP/
 * MySQL/
 * REACT/
-
-# 🌱 I’m currently learning ALX Software Engineering programme. 
 
 ### Research Publication
 
