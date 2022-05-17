@@ -11,7 +11,7 @@ I am a dedicated senior faculty member who teaches students from different socia
 * MySQL/
 * REACT/
 
-- 🌱 I’m currently learning ALX Software Engineering programme. 
+# 🌱 I’m currently learning ALX Software Engineering programme. 
 
 ### Research Publication
 
