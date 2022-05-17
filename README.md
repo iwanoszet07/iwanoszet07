@@ -21,10 +21,8 @@ I am a dedicated senior faculty member who teaches students from different socia
 * Full paper:- https://ieeexplore.ieee.org/document/9672216
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iwanoszet07)](https://github.com/ryo-ma/github-profile-trophy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwanoszet07)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iwanoszet07&show_icons=true)  
-
+[![GitHub stats](https://github-profile-trophy.vercel.app/?username=iwanoszet07)](https://github.com/ryo-ma/github-profile-trophy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwanoszet07)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iwanoszet07)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iwanoszet07)  
