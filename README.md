@@ -26,7 +26,9 @@ I am a dedicated senior faculty member who teaches students from different socia
 
 ![GitHub metrics](https://metrics.lecoq.io/iwanoszet07)  
 
-[![GitHub stats](https://github-profile-trophy.vercel.app/?username=iwanoszet07)](https://github.com/ryo-ma/github-profile-trophy) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iwanoszet07)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iwanoszet07)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iwanoszet07)  
 
