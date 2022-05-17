@@ -21,6 +21,9 @@ I am a dedicated senior faculty member who teaches students from different socia
 
 * Full paper:- https://ieeexplore.ieee.org/document/9672216
 
+### Git Repository Overview
+
+![Design and Development](https://github.com/iwanoszet07/iwanoszet07/blob/main/image_2022-05-17_145508939.png)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iwanoszet07)  
 
