@@ -22,7 +22,7 @@ I am a dedicated senior faculty member who teaches students from different socia
 
 
 [![GitHub stats](https://github-profile-trophy.vercel.app/?username=iwanoszet07)](https://github.com/ryo-ma/github-profile-trophy) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwanoszet07)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iwanoszet07)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iwanoszet07)  
@@ -30,6 +30,8 @@ I am a dedicated senior faculty member who teaches students from different socia
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iwanoszet07)  
 
 ![Profile views](https://gpvc.arturio.dev/iwanoszet07)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwanoszet07)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iwanoszet07)  
 
