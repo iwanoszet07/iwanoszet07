@@ -2,20 +2,48 @@
 #### I'm Seifu D. from Ethiopia
 ![I'm Seifu D. from Ethiopia](https://github.com/iwanoszet07/iwanoszet07/blob/main/image_2022-05-17_024632206.png)
 
-I am a dedicated senior faculty member with over 4 years experience at Wolkite University. I am well-versed in numerous programming languages, and in addition to doing research, I enjoy learning languages and frameworks, such as React.
+I am a dedicated senior faculty member with over five years of experience at Wolkite University. I have worked with various programming languages, and alongside my research activities, I enjoy continuously expanding my technical skills by learning modern languages and frameworks
+## Web & Backend Frameworks
+* Spring / Spring Boot (Java)
+* Node.js & Express.js (JavaScript)
+* Django (Python)
+* Flask (Python)
+
+## Frontend Frameworks & Libraries
+* React.js (already part of MERN)
+* Angular
+* Vue.js
+* Next.js
+
+## Mobile & Cross-Platform
+* Flutter (Dart)
+* React Native
+* Android (Java / Kotlin)
+
+## AI, ML & Data Science
+* TensorFlow
+* Keras
+* PyTorch
+* Scikit-learn
+
+## Testing & QA Frameworks
+JUnit
+TestNG
+Selenium
+Mockito
+PyTest
+
+## DevOps & Tools (Optional but Valuable)
+* Docker
+* Git & GitHub/GitLab
+* CI/CD pipelines
+
+## Databases & ORM
+ * MongoDB (MERN)
+ * MySQL / PostgreSQL
 
 -🌱 I’m currently learning ALX Software Engineering programme. 
 
-
-## Skills: 
-* HTML5/JavaScript/CSS/
-* PHP/
-* Python/
-* C++/
-* C/
-* REACT/
-* OOP in java/
-* Android Mobile programming in java/
 ### Research Publication
 
 
